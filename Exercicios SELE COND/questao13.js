@@ -13,5 +13,5 @@ if (valor > MIL){
     console.log ("Seu pagamento será recebido em cheque");
 } else{
     console.log (valor);
-    console.log ("Seu pagamento será recebido em dinheiro");
+    console.log ("Seu pagamento será recebido em dinheiro"); 
 }
