@@ -19,4 +19,4 @@ let res4 = mal == "nao";
 let res5 = doa == "nao";
 let resultado = (idade == "nao" && peso == "nao") && (hep == "nao" && mal == "nao" && doa == "nao");
 
-console.log("Pode doar sangue? " + resultado);
+console.log("Pode doar sangue? " + resultado); 
