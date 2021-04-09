@@ -16,4 +16,4 @@ if (infectado){
 }
 else {
     console.log("Sujeito a infeccao? ", infectado);
-}
+} 
