@@ -21,4 +21,4 @@ var rotina = ler("Hoje está fazendo sol SIM ou NAO?");
         console.log ("Agora a assiste televisão");
         console.log ("Tire um cochilo");
     }
-console.log ("BOM FIM DE SEMANA *-*") 
+console.log ("BOM FIM DE SEMANA *-*")  
