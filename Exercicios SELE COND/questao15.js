@@ -22,4 +22,4 @@ if (a < b + c && b < a + c && c < a + b) {
     }
 } else {
      console.log ("Seu triangulo não é equilátero, nem escaleno, nem isóceles");
-}
+} 
