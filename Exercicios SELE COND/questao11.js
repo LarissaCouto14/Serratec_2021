@@ -9,4 +9,4 @@ let cinco = 5.000;
 let total = valor <= cinco
 let calculo = total * 5/100
 let rcb = calculo * 9 /100
-     console.log ("Você receberá o acrescimo no salário no valor de", rcb);
+     console.log ("Você receberá o acrescimo no salário no valor de", rcb); 
